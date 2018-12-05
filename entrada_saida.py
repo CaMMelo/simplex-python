@@ -1,0 +1,3 @@
+
+class Entrada:
+    pass
