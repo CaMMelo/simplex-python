@@ -1,6 +1,6 @@
-## Aplicação Simplex
+# Aplicação Simplex
 
-# Requisitos implementados
+## Requisitos implementados
 
 [x] - Requisito  1
 [x] - Requisito  2
@@ -13,7 +13,7 @@
 [x] - Requisito  9
 [x] - Requisito 10
 
-# Execução do código
+## Execução do código
 
 python simplex.py [entrada-de-dados] [arquivo-saida-relatorio]
 
